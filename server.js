@@ -8,8 +8,9 @@ app.use(morgan('combined'));
 var content={
     title:"Article one raunak jha",
     heading :"Article one",
-    date : "feb 27.2017",
-    content:
+    date : "feb 27,2017",
+    content:'   rauASSS1```````````ak jha article'
+                   
 }
 
 app.get('/', function (req, res) 
